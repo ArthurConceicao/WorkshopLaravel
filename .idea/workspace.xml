@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f18a79b7-a644-4dc0-953d-a3016dc063ce" name="Default Changelist" comment="" />
+    <list default="true" id="f18a79b7-a644-4dc0-953d-a3016dc063ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bee5069-8e53-4155-a052-dbb8ceff4da8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bee5069-8e53-4155-a052-dbb8ceff4da8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/InstrumentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Instrument.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/instrument/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/instrument/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/instrument/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/instrument/show.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCase.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +42,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -135,17 +170,32 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers/Requests" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arthur.conceicao\PhpstormProjects\WorkshopLaravel\app\Http\Controllers\Requests" />
+      <recent name="C:\Users\arthur.conceicao\PhpstormProjects\WorkshopLaravel\resources\lang\pt-br" />
+      <recent name="C:\Users\arthur.conceicao\PhpstormProjects\WorkshopLaravel\resources\views\product" />
       <recent name="C:\Users\arthur.conceicao\PhpstormProjects\WorkshopLaravel" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.tests">
+  <component name="RunManager" selected="PHPUnit.ExampleTest.testProductWillCreateInvalid">
+    <configuration name="ExampleTest.testEditPageWillOpen" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\ExampleTest" configuration_file="/app/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/ExampleTest.php" method="testEditPageWillOpen" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleTest.testProductWillCreate" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\ExampleTest" configuration_file="/app/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/ExampleTest.php" method="testProductWillCreate" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleTest.testProductWillCreateInvalid" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\ExampleTest" configuration_file="/app/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/ExampleTest.php" method="testProductWillCreateInvalid" scope="Method" />
+      <method v="2" />
+    </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
@@ -161,6 +211,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.ExampleTest.testProductWillCreateInvalid" />
+        <item itemvalue="PHPUnit.ExampleTest.testProductWillCreate" />
+        <item itemvalue="PHPUnit.ExampleTest.testEditPageWillOpen" />
         <item itemvalue="PHPUnit.tests" />
       </list>
     </recent_temporary>
@@ -175,12 +228,24 @@
       <updated>1602776532446</updated>
       <workItem from="1602776533557" duration="3533000" />
       <workItem from="1602787757860" duration="119000" />
-      <workItem from="1602935025603" duration="595000" />
+      <workItem from="1602935025603" duration="8513000" />
+      <workItem from="1602945031403" duration="1150000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="547" y="-906" key="#CLI_Interpreters" timestamp="1602779399127">
@@ -195,30 +260,40 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="552" y="-902" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602935306079" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1602782000450">
-      <screen x="0" y="-1080" width="1920" height="1040" />
+    <state width="1491" height="294" key="GridCell.Tab.0.bottom" timestamp="1602946060515">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602782000450" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1602782000450">
-      <screen x="0" y="-1080" width="1920" height="1040" />
+    <state width="1491" height="294" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602946060515" />
+    <state width="1491" height="294" key="GridCell.Tab.0.center" timestamp="1602946060515">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602782000450" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1602782000450">
-      <screen x="0" y="-1080" width="1920" height="1040" />
+    <state width="1491" height="294" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602946060515" />
+    <state width="1491" height="294" key="GridCell.Tab.0.left" timestamp="1602946060515">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602782000450" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1602782000450">
-      <screen x="0" y="-1080" width="1920" height="1040" />
+    <state width="1491" height="294" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602946060515" />
+    <state width="1491" height="294" key="GridCell.Tab.0.right" timestamp="1602946060515">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602782000450" />
-    <state x="794" y="-636" key="NewPhpFileDialog" timestamp="1602778490198">
-      <screen x="0" y="-1080" width="1920" height="1040" />
+    <state width="1491" height="294" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602946060515" />
+    <state x="669" y="246" key="NewPhpClassDialog" timestamp="1602940193512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="669" y="246" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1602940193512" />
+    <state x="635" y="352" key="NewPhpFileDialog" timestamp="1602940318999">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="794" y="-636" key="NewPhpFileDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602778490198" />
-    <state x="461" y="-915" key="SettingsEditor" timestamp="1602776600646">
-      <screen x="0" y="-1080" width="1920" height="1040" />
+    <state x="635" y="352" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602940318999" />
+    <state x="369" y="115" key="SettingsEditor" timestamp="1602937092731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="461" y="-915" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602776600646" />
+    <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602937092731" />
     <state x="814" y="-736" width="311" height="351" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1602935541241">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
@@ -227,5 +302,9 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="668" y="-823" width="584" height="526" key="find.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602776701506" />
+    <state x="625" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602940300637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="625" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602940300637" />
   </component>
 </project>
